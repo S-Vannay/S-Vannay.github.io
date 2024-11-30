@@ -3,6 +3,31 @@ layout: home
 title: "The metamorphosis of Movie Archetypes"
 subtitle: "A timeless tale of film personas"
 ---
-<div style="text-align: center;">
-    <img src="/assets/img/collage.jpg" alt="Bannière de la page d'accueil" style="width: 100%; height: auto;">
+<div class="hero-image">
+    <img src="/assets/img/collage.jpeg" alt="Bannière de la page d'accueil" style="width: 100%; height: auto;">
+    <div class="hero-text">
+      <h1>The metamorphosis of Movie Archetypes</h1>
+      <p>A timeless tale of film personas</p>
+    </div>
   </div>
+  
+  <style>
+  .hero-image {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .hero-image img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  }
+  </style>
