@@ -5,7 +5,7 @@ Hello there, fellow time travelers! I’m Ada, your friendly, time-hopping adven
 </p>
 
 <div style="text-align: center;">
-    <img src="/home/sara/Dropbox/epfl/master/MA1/ADA/S-Vannay.github.io/mardown_files/image1.png" alt="Ada">
+    <img src="/mardown_files/image1.png" alt="Ada">
 </div>
 
 <p style="text-align: justify;">
