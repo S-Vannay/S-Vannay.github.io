@@ -15,6 +15,9 @@ title: "The Metamorphosis of Movie Archetypes"
 # Your name to show in the footer
 author: Some Person
 
+# Image de la page d'accueil
+homepage_image: "/assets/img/collage.jpg"
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
