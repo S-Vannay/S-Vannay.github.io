@@ -5,7 +5,7 @@ Hello there, fellow time travelers! I’m Ada, your friendly, time-hopping adven
 </p>
 
 <div style="text-align: center;">
-![Logo](https://github.com/S-Vannay/S-Vannay.github.io/blob/master/mardown_files/image(1).png)
+  <img src="https://github.com/S-Vannay/S-Vannay.github.io/blob/master/mardown_files/image(1).png" alt="Logo">
 </div>
 
 <p style="text-align: justify;">
