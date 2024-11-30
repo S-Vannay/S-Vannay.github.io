@@ -5,7 +5,7 @@ Hello there, fellow time travelers! I’m Ada, your friendly, time-hopping adven
 </p>
 
 <div style="text-align: center;">
-    ![Ada](./image1.png)
+    <img src="./image1.png" alt="Ada">
 </div>
 
 <p style="text-align: justify;">
