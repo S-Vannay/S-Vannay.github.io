@@ -9,7 +9,7 @@ Hello there, fellow time travelers! I’m Ada, your friendly, time-hopping adven
 </p>
 
 <div style="text-align: center;">
-    <img src="/mardown_files/image1.png" alt="Ada">
+    <img src="/markdown_files/image1.png" alt="Ada">
 </div>
 
 <p style="text-align: justify;">
