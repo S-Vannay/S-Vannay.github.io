@@ -29,10 +29,20 @@ Next up, the genres that define our cinematic journey. From dram to horror, each
 </p>
 
 <div style="text-align: center;">
-    <img src="/markdown_files/world_map.png" alt="World map">
+    <iframe src="/markdown_files/genres_evolution_decades.html" width="100%" height="600px" frameborder="0"></iframe>
 </div>
 
 <p style="text-align: justify;">
 Finally, before going back in time, let's talk about something that's always a delicate discussion: gender representation in movies. Who's been taking the lead in cinematic adventures? And how has gender representation evolved over the decades? Are women still stuck in damsel-in-distress roles, or are they now wielding swords and leading armies? Unfortunately, the answer is not so positive, as you can see for yourself...
 </p>
+
+<div style="text-align: center;">
+    <iframe src="/markdown_files/gendres_evolution_decades.html" width="100%" height="600px" frameborder="0"></iframe>
+</div>
+
+
+<div style="text-align: center;">
+    <iframe src="/markdown_files/evolution_gender_per_genre_decades.html" width="100%" height="600px" frameborder="0"></iframe>
+</div>
+
 
