@@ -33,7 +33,7 @@ Next up, the genres that define our cinematic journey. From dram to horror, each
 </div>
 
 <p style="text-align: justify;">
-It seems that drama and comediy take the center stage for the 80s ! Next up, the genres that define our cinematic journey. From dram to horror, each genre tells a unique story. But which genres dominated the 20th centruy? Was the 80s all about action-packed thrillers, or did romance and drama take center stage? Let's find out!
+It seems that drama and comedy take the center stage for the 80s ! Next up, the genres that define our cinematic journey. From dram to horror, each genre tells a unique story. But which genres dominated the 20th centruy? Was the 80s all about action-packed thrillers, or did romance and drama take center stage? Let's find out!
 </p>
 
 <p style="text-align: justify;">
