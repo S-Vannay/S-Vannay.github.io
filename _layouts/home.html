@@ -2,8 +2,52 @@
 layout: page
 ---
 
+---
+layout: base
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+
+<nav class="navbar">
+  <!-- Contenu de la barre de navigation -->
+</nav>
+
+<main class="content">
+  {{ content }}
+
+  {% if page.after-content %}
+    <div class="after-content">
+      {% for file in page.after-content %}
+        {% include {{ file }} %}
+      {% endfor %}
+    </div>
+  {% endif %}
+</main>
+
+{% include footer.html %}
+
+</body>
+</html>
+
 {{ content }}
 
 <div class="introduction">
   {% include introduction.html %}
 </div>
+
+<main class="content">
+  {{ content }}
+</main>
+
+{% include footer.html %}
+
+</body>
+</html>
