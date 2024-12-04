@@ -152,7 +152,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: #960018;
+  background-color: var(--navbar-col);
   border-bottom: 1px solid var(--navbar-border-col);
   font-family: var(--header-font);
   {% if site.navbar-img %}
@@ -218,7 +218,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
   font-weight: 800;
-  color:#960018;
+  color: var(--navbar-text-col);
 }
 
 .navbar-toggler {
