@@ -23,7 +23,7 @@ homepage_image: "/assets/img/collage.jpg"
 ###############################################
 
 navbar-links:
-  Introduction: "markdown_files/introduction"
+  Introduction: "/_includes/introduction"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
