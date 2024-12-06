@@ -1,6 +1,4 @@
-<div class="conclusion">
-    {% capture content %}
-    {% include conclusion.md %}
-    {% endcapture %}
-    {{ content | markdownify }}
-  </div>
+{% capture content %}
+{% include conclusion.md %}
+{% endcapture %}
+{{ content | markdownify }}
