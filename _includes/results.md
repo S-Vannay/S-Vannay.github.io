@@ -7,10 +7,10 @@
   Hold tight, because we’re about to embark on a journey through the decades ! Together, we’ll explore how movies captured the essence of each decade. You’ll choose your favorite decade and watch as the magic of cinema unfolds before your eyes.
   </p>
   <p class="text-justify">
-  Each link below is your ticket to a specific chapter in movie history.So, pick your destination, and let’s travel across time—cinematic style!
+  Each link below is your ticket to a specific chapter in movie history. So, pick your destination, and let’s travel across time—cinematic style!
   <div class="results-grid">
     <div class="results-card">
-      <a href="/results/1920s.html">
+      <a href="1910s.html">
         <h3>The 10s</h3>
       </a>
     </div>
@@ -63,7 +63,7 @@
       <a href="/results/2020s.html">
         <h3>The 2010s</h3>
       </a>
-</div>
+    </div>
   </div>
 </div>
 
