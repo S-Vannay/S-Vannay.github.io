@@ -10,7 +10,7 @@
   Each link below is your ticket to a specific chapter in movie history. So, pick your destination, and let’s travel across time—cinematic style!
   <div class="results-grid">
     <div class="results-card">
-      <a href="1910s.html">
+      <a href="/_includes/1910s.html">
         <h3>The 10s</h3>
       </a>
     </div>
