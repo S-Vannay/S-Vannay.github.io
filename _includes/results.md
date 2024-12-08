@@ -11,7 +11,7 @@
   </p>
   <div class="results-grid">
     <div class="results-card">
-      <a href="/2023/10/10/1910s.html">
+      <a href="/1910.html">
         <h3>The 10s</h3>
       </a>
     </div>
@@ -59,6 +59,11 @@
       <a href="/results/2010s.html">
         <h3>The 2000s</h3>
       </a>
+      <div class="results-card">
+        <a href="/results/1980s.html">
+          <h3>The 2010s</h3>
+        </a>
+      </div>
     </div>
   </div>
 </div>
