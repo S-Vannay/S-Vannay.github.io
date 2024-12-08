@@ -7,10 +7,11 @@
   Hold tight, because we’re about to embark on a journey through the decades ! Together, we’ll explore how movies captured the essence of each decade. You’ll choose your favorite decade and watch as the magic of cinema unfolds before your eyes.
   </p>
   <p class="text-justify">
-  Each link below is your ticket to a specific chapter in movie history. So, pick your destination, and let’s travel across time—cinematic style!
+  Each link below is your ticket to a specific chapter in movie history.So, pick your destination, and let’s travel across time—cinematic style!
+  </p>
   <div class="results-grid">
     <div class="results-card">
-      <a href="/_includes/1910s.html">
+      <a href="/_includes/1910s.md">
         <h3>The 10s</h3>
       </a>
     </div>
@@ -35,6 +36,11 @@
       </a>
     </div>
     <div class="results-card">
+      <a href="/results/1970s.html">
+        <h3>The 60s</h3>
+      </a>
+    </div>
+    <div class="results-card">
       <a href="/results/1980s.html">
         <h3>The 70s</h3>
       </a>
@@ -54,11 +60,6 @@
         <h3>The 2000s</h3>
       </a>
     </div>
-    <div class="results-card">
-      <a href="/results/2020s.html">
-        <h3>The 2010s</h3>
-      </a>
-    </div>
   </div>
 </div>
 
@@ -71,5 +72,26 @@
 .results-grid {
   display: flex;
   flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.results-card {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  width: 200px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.results-card a {
+  text-decoration: none;
+  color: #333;
+}
+
+.results-card a:hover {
+  color: #960018; /* Rouge carmin */
 }
 </style>
