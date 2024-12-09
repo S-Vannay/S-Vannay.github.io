@@ -3,11 +3,10 @@ layout: home
 ---
 
 <div class="hero-image">
-    <img src="/assets/img/collage.jpeg" alt="Bannière de la page d'accueil">
-    <div class="hero-text">
-      <h1>The metamorphosis of Movie Archetypes</h1>
-      <p>A timeless tale of film personas</p>
-    </div>
+  <div class="hero-text">
+    <h1>The metamorphosis of Movie Archetypes</h1>
+    <p>A timeless tale of film personas</p>
+  </div>
 </div>
 
 
@@ -28,13 +27,14 @@ body, html {
   overflow: hidden; /* Cache toute partie de l'image qui dépasse */
 }
 
-.hero-image img {
+.hero-image {
+  position: relative;
   width: 100%;
   height: auto;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  background-image: url('/assets/img/collage.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .hero-text {
@@ -42,7 +42,8 @@ body, html {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  color: white;
+  text-align: center;
 }
 
 .section {
