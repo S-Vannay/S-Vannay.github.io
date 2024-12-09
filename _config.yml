@@ -232,11 +232,6 @@ paginate: 5
 kramdown:
   input: GFM
 
-sass:
-  style: compressed
-include:
-  - assets/css/styles.css
-  
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
