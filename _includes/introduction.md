@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <div style="flex: 0 0 auto; margin-right: 20px;">
-        <img src="/markdown_files/ada_dessin.png" alt="Ada" style="max-width: 400px;">
+        <img src="/assets/img/ada_dessin.png" alt="Ada" style="max-width: 400px;">
     </div>
     <div style="flex: 1;">
         <p style="text-align: justify;">
@@ -21,7 +21,7 @@ First stop: the global map of cinema! From Hollywood to Bollywood, we’ve analy
 </p>
 
 <div style="text-align: center;">
-    <img src="/markdown_files/world_map.png" alt="World map">
+    <img src="/assets/img/world_map.png" alt="World map">
 </div>
 
 <p style="text-align: justify;">

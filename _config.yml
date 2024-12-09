@@ -48,8 +48,6 @@ round-avatar: true
 
 # Network links in the footer 
 # Select the social network links that you want to show in the footer.
-social-network-links:
-  github: ada-2024-project-analyticaldementialavengers
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
