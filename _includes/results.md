@@ -10,9 +10,17 @@ Welcome to the dawn of the silver screen! The 1910s were a magical time when mov
 </p>
 
 <h2 style="color: #960018;"><em>The 20s: The Roaring Twenties</em></h2>
-<p style="text-align: justify;">
-It’s time to dance into the Jazz Age! The 1920s brought glamour, rebellion, and the birth of Hollywood’s Golden Age. Silent film stars became icons, and talkies began to revolutionize storytelling forever. Whether it’s flappers, gangsters, or the rise of epic dramas, this decade was all about breaking the rules and embracing the future. Let’s dive into this glittering era of cinema!
-</p>
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <h2 style="color: #960018;"><em>The 10s: The Birth of Cinema</em></h2>
+        <p style="text-align: justify;">
+        Welcome to the dawn of the silver screen! The 1910s were a magical time when moving pictures became more than a curiosity—they became an art form. With pioneers like Charlie Chaplin and D.W. Griffith, and the rise of silent films, this decade laid the foundation for the cinematic spectacles we love today. So grab your top hat and step into the flickering glow of early cinema history! 
+        </p>
+    </div>
+    <div style="flex: 0 0 auto; margin-left: 20px;">
+        <img src="/assets/img/Ada4.jpeg" alt="Ada in the 20s" style="max-width: 200px;">
+    </div>
+</div>
 
 <h2 style="color: #960018;"><em>The 30s: Golden Dreams and Great Escapes</em></h2>
 <p style="text-align: justify;">
