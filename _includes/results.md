@@ -44,44 +44,51 @@ Welcome to the 1930s—a time when cinema became a beacon of hope during the Gre
 Welcome to the 1950s—a decade of optimism, rebellion, and innovation. As post-war prosperity soared, Hollywood turned to technicolor spectacle, suburban dreams, and rebellious icons like James Dean and Marilyn Monroe. Sci-fi took off with tales of alien invasions and atomic-age fears. Let’s explore a time when cinema reflected a society balancing tradition and change!
 </p>
 
-
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        <h2 style="color: #960018;"><em>The 60s: Revolution and Counterculture<em></h2>
+        <h2 style="color: #960018;"><em>The 60s: Revolution and Counterculture</em></h2>
         <p style="text-align: justify;">
         Welcome to the dawn of the silver screen! The 1910s were a magical time when moving pictures became more than a curiosity—they became an art form. With pioneers like Charlie Chaplin and D.W. Griffith, and the rise of silent films, this decade laid the foundation for the cinematic spectacles we love today. So grab your top hat and step into the flickering glow of early cinema history! 
         </p>
     </div>
     <div style="flex: 0 0 auto; margin-left: 20px;">
-        <img src="/assets/img/Ada4.jpeg" alt="Ada in the 20s" style="max-width: 200px;">
+        <img src="/assets/img/Ada1.jpeg" alt="Ada in the 20s" style="max-width: 200px;">
     </div>
 </div>
-
- 
-<h2 style="color: #960018;"><em></em></h2>
-<p style="text-align: justify;">
-Buckle up—it’s the 1960s, and cinema is breaking all the rules! From the glitz of Hollywood epics to the raw energy of counterculture films, this decade challenged conventions and mirrored societal upheavals. Bond was suave, Kubrick redefined sci-fi, and the French New Wave changed storytelling forever. Let’s ride the wave of cinematic revolution!
-</p>
 
 <h2 style="color: #960018;"><em>The 70s: The Rise of the Rebels</em></h2>
 <p style="text-align: justify;">
 Welcome to the gritty and groundbreaking 1970s, where directors like Spielberg, Coppola, and Lucas took creative control and birthed the era of the blockbuster. From political thrillers to epic space adventures, the 70s redefined what movies could achieve. It’s a time when grit, realism, and rebellion ruled the screen. Ready to meet the rebels of cinema?
 </p>
 
-<h2 style="color: #960018;"><em>The 80s: Bigger, Bolder, Brighter</em></h2>
-<p style="text-align: justify;">
-Turn up the neon and crank the synthesizers—it’s the 1980s! This was the era of big hair, big action, and even bigger blockbusters. From E.T. to Die Hard, cinema became a cultural phenomenon driven by special effects and unforgettable one-liners. Let’s explore the era when movies were larger than life, just like the decade itself!
-</p>
+<div style="display: flex; align-items: center;">
+    <div style="flex: 0 0 auto; margin-right: 20px;">
+        <img src="/assets/img/Ada2.jpeg" alt="Ada in the 40s" style="max-width: 200px;">
+    </div>
+    <div style="flex: 1;">
+        <h2 style="color: #960018;"><em>The 80s: Bigger, Bolder, Brighter</em></h2>
+        <p style="text-align: justify;">
+        Turn up the neon and crank the synthesizers—it’s the 1980s! This was the era of big hair, big action, and even bigger blockbusters. From E.T. to Die Hard, cinema became a cultural phenomenon driven by special effects and unforgettable one-liners. Let’s explore the era when movies were larger than life, just like the decade itself!
+        </p>
+    </div>
+</div>
 
 <h2 style="color: #960018;"><em>The 90s: The Era of Innovation</em></h2>
 <p style="text-align: justify;">
 Welcome to the 1990s, where cinema bridged the gap between the analog past and the digital future. It was a time of emotional epics like Titanic, groundbreaking CGI with Jurassic Park, and genre-defining masterpieces like The Matrix. This was the decade when storytelling became global, and technology took movies to unimaginable heights. Let’s dive into the innovation of the 90s!”
 </p>
 
-<h2 style="color: #960018;"><em>The 2000s: The Blockbuster Boom</em></h2>
-<p style="text-align: justify;">
-Step into the 2000s—a decade where superheroes soared, fantasy worlds captivated, and franchises reigned supreme. With The Lord of the Rings and Harry Potter, epic storytelling reached new heights, while CGI pushed the boundaries of imagination. Let’s relive a time when cinema became a global phenomenon, uniting audiences like never before!
-</p>
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <h2 style="color: #960018;"><em>The 2000s: The Blockbuster Boom</em></h2>
+        <p style="text-align: justify;">
+        Step into the 2000s—a decade where superheroes soared, fantasy worlds captivated, and franchises reigned supreme. With The Lord of the Rings and Harry Potter, epic storytelling reached new heights, while CGI pushed the boundaries of imagination. Let’s relive a time when cinema became a global phenomenon, uniting audiences like never before!
+        </p>
+    </div>
+    <div style="flex: 0 0 auto; margin-left: 20px;">
+        <img src="/assets/img/Ada5.jpeg.jpeg" alt="Ada in the 20s" style="max-width: 200px;">
+    </div>
+</div>
 
 <h2 style="color: #960018;"><em>The 2010s: The Age of Diversity</em></h2>
 <p style="text-align: justify;">
