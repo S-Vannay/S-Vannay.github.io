@@ -10,16 +10,17 @@ Welcome to the dawn of the silver screen! The 1910s were a magical time when mov
 </p>
 
 <div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        <h2 style="color: #960018;"><em>The 20s: The Roaring Twenties<em></h2>
-        <p style="text-align: justify;">
-        Welcome to the dawn of the silver screen! The 1910s were a magical time when moving pictures became more than a curiosity—they became an art form. With pioneers like Charlie Chaplin and D.W. Griffith, and the rise of silent films, this decade laid the foundation for the cinematic spectacles we love today. So grab your top hat and step into the flickering glow of early cinema history! 
-        </p>
-    </div>
-    <div style="flex: 0 0 auto; margin-left: 20px;">
+    <div style="flex: 0 0 auto; margin-right: 20px;">
         <img src="/assets/img/Ada4.jpeg" alt="Ada in the 20s" style="max-width: 200px;">
     </div>
+    <div style="flex: 1;">
+        <h2 style="color: #960018;"><em>The 20s: The Roaring Twenties</em></h2>
+        <p style="text-align: justify;">
+        It’s time to dance into the Jazz Age! The 1920s brought glamour, rebellion, and the birth of Hollywood’s Golden Age. Silent film stars became icons, and talkies began to revolutionize storytelling forever. Whether it’s flappers, gangsters, or the rise of epic dramas, this decade was all about breaking the rules and embracing the future. Let’s dive into this glittering era of cinema!
+        </p>
+    </div>
 </div>
+
 
 <h2 style="color: #960018;"><em>The 30s: Golden Dreams and Great Escapes</em></h2>
 <p style="text-align: justify;">
@@ -28,12 +29,12 @@ Welcome to the 1930s—a time when cinema became a beacon of hope during the Gre
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 0 0 auto; margin-right: 20px;">
-        <img src="/assets/img/Ada4.jpeg" alt="Ada in the 20s" style="max-width: 200px;">
+        <img src="/assets/img/Ada3.jpeg" alt="Ada in the 40s" style="max-width: 200px;">
     </div>
     <div style="flex: 1;">
-        <h2 style="color: #960018;"><em>The 20s: The Roaring Twenties</em></h2>
+        <h2 style="color: #960018;"><em>The 40s: Wartime and Resilience</em></h2>
         <p style="text-align: justify;">
-        Welcome to the dawn of the silver screen! The 1910s were a magical time when moving pictures became more than a curiosity—they became an art form. With pioneers like Charlie Chaplin and D.W. Griffith, and the rise of silent films, this decade laid the foundation for the cinematic spectacles we love today. So grab your top hat and step into the flickering glow of early cinema history!
+        Step into the 1940s, where cinema reflected the triumphs and tragedies of a world at war. Hollywood rallied with stirring war dramas, noir thrillers, and uplifting musicals that kept spirits high. As soldiers fought on the frontlines, moviegoers found strength and solace in stories of courage and resilience. Let’s uncover how this decade shaped the heroes we cheer for today!
         </p>
     </div>
 </div>
@@ -43,17 +44,24 @@ Welcome to the 1930s—a time when cinema became a beacon of hope during the Gre
 Welcome to the 1950s—a decade of optimism, rebellion, and innovation. As post-war prosperity soared, Hollywood turned to technicolor spectacle, suburban dreams, and rebellious icons like James Dean and Marilyn Monroe. Sci-fi took off with tales of alien invasions and atomic-age fears. Let’s explore a time when cinema reflected a society balancing tradition and change!
 </p>
 
+
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <h2 style="color: #960018;"><em>The 60s: Revolution and Counterculture<em></h2>
         <p style="text-align: justify;">
-        Buckle up—it’s the 1960s, and cinema is breaking all the rules! From the glitz of Hollywood epics to the raw energy of counterculture films, this decade challenged conventions and mirrored societal upheavals. Bond was suave, Kubrick redefined sci-fi, and the French New Wave changed storytelling forever. Let’s ride the wave of cinematic revolution!
+        Welcome to the dawn of the silver screen! The 1910s were a magical time when moving pictures became more than a curiosity—they became an art form. With pioneers like Charlie Chaplin and D.W. Griffith, and the rise of silent films, this decade laid the foundation for the cinematic spectacles we love today. So grab your top hat and step into the flickering glow of early cinema history! 
         </p>
     </div>
     <div style="flex: 0 0 auto; margin-left: 20px;">
-        <img src="/assets/img/Ada1.jpeg" alt="Ada in the 60s" style="max-width: 200px;">
+        <img src="/assets/img/Ada4.jpeg" alt="Ada in the 20s" style="max-width: 200px;">
     </div>
 </div>
+
+ 
+<h2 style="color: #960018;"><em></em></h2>
+<p style="text-align: justify;">
+Buckle up—it’s the 1960s, and cinema is breaking all the rules! From the glitz of Hollywood epics to the raw energy of counterculture films, this decade challenged conventions and mirrored societal upheavals. Bond was suave, Kubrick redefined sci-fi, and the French New Wave changed storytelling forever. Let’s ride the wave of cinematic revolution!
+</p>
 
 <h2 style="color: #960018;"><em>The 70s: The Rise of the Rebels</em></h2>
 <p style="text-align: justify;">
