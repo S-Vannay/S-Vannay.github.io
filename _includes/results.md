@@ -52,7 +52,7 @@ Welcome to the 1950s—a decade of optimism, rebellion, and innovation. As post-
         </p>
     </div>
     <div style="flex: 0 0 auto; margin-left: 20px;">
-        <img src="/assets/img/Ada1.jpeg" alt="Ada in the 20s" style="max-width: 200px;">
+        <img src="/assets/img/Ada1.jpeg" alt="Ada in the 60s" style="max-width: 200px;">
     </div>
 </div>
 
@@ -63,7 +63,7 @@ Welcome to the gritty and groundbreaking 1970s, where directors like Spielberg, 
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 0 0 auto; margin-right: 20px;">
-        <img src="/assets/img/Ada2.jpeg" alt="Ada in the 40s" style="max-width: 200px;">
+        <img src="/assets/img/Ada2.jpeg" alt="Ada in the 80s" style="max-width: 200px;">
     </div>
     <div style="flex: 1;">
         <h2 style="color: #960018;"><em>The 80s: Bigger, Bolder, Brighter</em></h2>
@@ -86,7 +86,7 @@ Welcome to the 1990s, where cinema bridged the gap between the analog past and t
         </p>
     </div>
     <div style="flex: 0 0 auto; margin-left: 20px;">
-        <img src="/assets/img/Ada5.jpeg.jpeg" alt="Ada in the 20s" style="max-width: 200px;">
+        <img src="/assets/img/Ada5.jpeg" alt="Ada in the 2000s" style="max-width: 200px;">
     </div>
 </div>
 
