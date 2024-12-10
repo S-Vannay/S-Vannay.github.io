@@ -11,7 +11,7 @@ Welcome to the dawn of the silver screen! The 1910s were a magical time when mov
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        <h2 style="color: #960018;"><em>TThe 20s: The Roaring Twenties/em></h2>
+        <h2 style="color: #960018;"><em>The 20s: The Roaring Twenties<em></h2>
         <p style="text-align: justify;">
         Welcome to the dawn of the silver screen! The 1910s were a magical time when moving pictures became more than a curiosity—they became an art form. With pioneers like Charlie Chaplin and D.W. Griffith, and the rise of silent films, this decade laid the foundation for the cinematic spectacles we love today. So grab your top hat and step into the flickering glow of early cinema history! 
         </p>
