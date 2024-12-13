@@ -6,7 +6,7 @@
     </div>
     <div style="flex: 1;">
         <p style="text-align: justify;">
-        I will be your guide as you travel through time, so grab your popcorn, because we’re about to embark on a cinematic journey through time, where wars, revolutions, and social upheavals create iconic movie personas—soldiers, astronauts, rebels, and more! So, buckle up—let's uncover how the events of each era created the unforgettable movie archetypes we see today. And who knows? Maybe we’ll predict the next big movie character before they even hit theaters!
+        I will be your guide as you travel through time, so grab your popcorn, because we’re about to embark on a cinematic journey through time, where wars, revolutions, and social upheavals create iconic movie personas—soldiers, astronauts, rebels, and more! So, buckle up—let's uncover how the events of each era created the unforgettable movie archetypes we see today.
         </p>
     </div>
 </div>
