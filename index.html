@@ -57,24 +57,3 @@ body, html {
   background-color: #f1f1f1;
 }
 </style>
-
-<div id="flipbook">
-  <div class="page">
-    {% include_relative _includes/introduction.md %}
-  </div>
-    {% include_relative _includes/conclusion.md %}
-  </div>
-  <!-- Ajoutez autant de pages que nécessaire -->
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="/assets/js/turn.min.js"></script>
-<script>
-  $(document).ready(function() {
-    $("#flipbook").turn({
-      width: 800,
-      height: 600,
-      autoCenter: true
-    });
-  });
-</script>
