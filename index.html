@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div class="hero-image">
-    <img src="/assets/img/banner.jpeg" alt="Home page banner">
+    <img src="/assets/img/banner.jpeg" alt="Principal page banner">
     <div class="hero-text">
       <h1>The metamorphosis of Movie Archetypes</h1>
       <p>A timeless tale of film personas</p>
@@ -60,9 +60,9 @@ body, html {
 
 <div id="flipbook">
   <div class="page">
-    {% include _includes/introduction.md %}
+    {% include_relative _includes/introduction.md %}
   </div>
-    {% include _includes/conclusion.md %}
+    {% include_relative _includes/conclusion.md %}
   </div>
   <!-- Ajoutez autant de pages que nécessaire -->
 </div>
