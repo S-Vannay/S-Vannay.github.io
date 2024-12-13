@@ -22,6 +22,10 @@ layout: null
   --body-font: 'Lora', 'Times New Roman', serif;
   --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --mid-col: #808080;
+
+  /* custom CSS variables */
+  --results-bg-col: #a19f9f; /* Gris clair pour l'encadré */
+  --results-border-col: #2c2b2b; /* Bordure grise pour l'encadré */
 }
 
 /* --- General --- */
@@ -595,10 +599,10 @@ footer .footer-custom-content {
     font-size: 2.25rem;
   }
 }
-/* --- results-section */
+/* --- Results section --- */
 .results-section {
-  background-color: #d3d3d3; /* Gris plus foncé */
-  border: 1px solid #ccc; /* Bordure grise */
+  background-color: var(--results-bg-col); /* Utilise la variable CSS pour le fond */
+  border: 1px solid var(--results-border-col); /* Utilise la variable CSS pour la bordure */
   padding: 20px;
   border-radius: 5px; /* Coins arrondis */
 }
