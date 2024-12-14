@@ -36,6 +36,12 @@ Welcome to the 1930s—a time when cinema became a beacon of hope during the Gre
         <p style="text-align: justify;">
         Step into the 1940s, where cinema reflected the triumphs and tragedies of a world at war. Hollywood rallied with stirring war dramas, noir thrillers, and uplifting musicals that kept spirits high. As soldiers fought on the frontlines, moviegoers found strength and solace in stories of courage and resilience. Let’s uncover how this decade shaped the heroes we cheer for today!
         </p>
+        <p style="text-align: justify;">
+        The most common name we found in our data? John. This reflects the many everyday heroes and soldiers of the time—strong, resilient, and determined. The adjective that stood out most was young, symbolizing the fresh faces heading to war and the optimism of a new generation. And what were the themes shaping these characters? Hero, war, science, fashion, and film. These themes reflect the heart of the 1940s: bravery in the face of global conflict, the technological advances brought on by the war, the rise of new fashion trends, and the golden age of cinema that kept spirits high during dark time.
+        </p>
+        <div style="text-align: center; margin: 20px 0;">
+            <img src="/assets/img/themes_40s.jpg.jpg" alt="Themes of the 40s" style="max-width: 100%; height: auto;">
+        </div>
     </div>
 </div>
 
