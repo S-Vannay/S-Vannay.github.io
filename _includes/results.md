@@ -4,9 +4,18 @@
 Hold tight, because we’re about to embark on a journey through the decades! Together, we’ll explore how movies captured the essence of each decade. Hold tight, because we’re about to embark on a journey through the decades! 
 </p>
 
+
 <h2 style="color: #960018;"><em>The 10s: The Birth of Cinema</em></h2>
 <p style="text-align: justify;">
-Welcome to the dawn of the silver screen! The 1910s were a magical time when moving pictures became more than a curiosity—they became an art form. With pioneers like Charlie Chaplin and D.W. Griffith, and the rise of silent films, this decade laid the foundation for the cinematic spectacles we love today. So grab your top hat and step into the flickering glow of early cinema history! 
+Greetings, fellow time travelers! As we step into the 1910s, let me introduce you to two iconic figures who dominated this era of silent films. These characters reflect the stories audiences couldn’t get enough of, shaped by a world on the brink of transformation. Meet our two stars of the decade! 
+</p>
+
+<p style="text-align: justify;">
+First, Meet Adelaide "Addie" LaRue, a 25-year-old French whirlwind who's basically a human embodiment of "I do what I want." Born into a poor family in the French countryside, she grew up determined to prove that no, society's limited opportunities for women wouldn't hold her back (take that, patriarchy!). If you have the opportunity to meet her, be careful, because Addi's personality is a delightful cocktail of contradictions. Cunning and manipulative? Oh yeah, she’ll charm her way to the top. Determined and resourceful? Absolutely. She's got a whole toolbox of "I’ll get what I want" strategies. Independent and strong-willed? You bet. She’ll never ask for permission, only forgiveness. Emotionally vulnerable? Of course. Under all that sass, she’s got a soft spot for the underdogs (and probably a few too many existential crises).
+</p>
+
+<p style="text-align: justify;">
+Now, meet Bert Fletcher, a 35-year-old former salesman turned street-smart handyman. Once lost in his own career, Bert now spends his days fixing things (often things that weren’t broken) and picking pockets with his quick wit and charm. A lovable rogue with a heart of gold, he’s always ready for an adventure, especially if it involves pranks or a clever con. Whether he’s navigating chaos or talking his way out of sticky situations, Bert’s resourceful and quick on his feet. Though he’s a troublemaker by nature, he’s got a soft spot for the underdog and always tries to do the right thing, even if it means making more mess than he intended. When he’s not swindling people or fixing leaky faucets, Bert’s tinkering with his collection of old clockwork gadgets in his hidden workshop. A loner at heart, he’s always up for a wild ride, and no matter what, you can count on one thing: a good time... and probably an empty wallet.
 </p>
 
 <div style="display: flex; align-items: center;">
