@@ -18,6 +18,15 @@ First, Meet Adelaide "Addie" LaRue, a 25-year-old French whirlwind who's basical
 Now, meet Bert Fletcher, a 35-year-old former salesman turned street-smart handyman. Once lost in his own career, Bert now spends his days fixing things (often things that weren’t broken) and picking pockets with his quick wit and charm. A lovable rogue with a heart of gold, he’s always ready for an adventure, especially if it involves pranks or a clever con. Whether he’s navigating chaos or talking his way out of sticky situations, Bert’s resourceful and quick on his feet. Though he’s a troublemaker by nature, he’s got a soft spot for the underdog and always tries to do the right thing, even if it means making more mess than he intended. When he’s not swindling people or fixing leaky faucets, Bert’s tinkering with his collection of old clockwork gadgets in his hidden workshop. A loner at heart, he’s always up for a wild ride, and no matter what, you can count on one thing: a good time... and probably an empty wallet.
 </p>
 
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+    <div style="flex: 1; margin-right: 10px;">
+        <img src="/assets/img/ID_Adelaide.png" alt="ID Adelaide" style="width: 100%; height: auto;">
+    </div>
+    <div style="flex: 1; margin-left: 10px;">
+        <img src="/assets/img/ID_Bert.png" alt="ID Bert" style="width: 100%; height: auto;">
+    </div>
+</div>
+
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <h2 style="color: #960018;"><em>The 20s: The Roaring Twenties</em></h2>
