@@ -1,5 +1,18 @@
 <h1 style="color: #960018;">Decoding Decades</h1>
 
 <p style="text-align: justify;">
-Okay, fellow time travelers, I’m about to let you in on a little secret—how we actually managed to analyze decades of movie history! First, I used LLMs to sift through tons of plot summaries. These models help us understand and extract key themes from the text—kind of like a superpower that lets us read and analyze every movie in seconds! Then, I used LDA to uncover words frequency and hidden topics in the films—like grouping words related to ‘action’ or ‘romance’. It’s how I figured out the main names, adjectives and themes of each decade! Now, here’s the magic: Pearson correlation! It helps us link words to historical events. For example, when ‘war’ shows up in the 1940s, we see how closely it matches with World War II. Pretty cool, right? Next, I used word embeddings with NLTK to turn words into coordinates on a map. This way, I can find which words are similar, like ‘adventure’ and ‘exploration’. It helps me spot trends across time!” And finally, K-Means clustering! This is my secret weapon to group similar films and themes together—whether it’s action movies or tear-jerking dramas. It helps me organize everything into neat clusters! And that’s how I cracked the code to time travel through cinema! Now you’re in the know...
+Okay, fellow time travelers, I’m about to let you in on a little secret — how we actually managed to analyze decades of movie history! First, I used powerful Large Language Models (LLMs)—think of them as genius AIs that have read everything and can chat like a super-smart friend—to zip through tons of plot summaries and extract key themes. It’s like having a superpower to analyze movies in seconds!. Then came LDA, which grouped words into themes like ‘action’ or ‘romance,’ revealing the names, adjectives, and vibes of each decade.
 </p>
+
+<p style="text-align: justify;">
+Next, Pearson correlation worked its magic by linking movie themes to historical events—like connecting mentions of ‘war’ in the 1940s to World War II. Cool, right? I also mapped words into coordinates with word embeddings, so I could see connections—like how ‘adventure’ and ‘exploration’ go hand in hand.
+</p>
+
+<p style="text-align: justify;">
+Finally, K-Means clustering swooped in to group movies into neat little clusters, whether they were pulse-pounding action flicks or heart-wrenching dramas. And voilà! That’s how we pieced together the ultimate cinematic time machine. Now you’re in on the secret!
+</p>
+
+
+
+
+
