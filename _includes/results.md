@@ -67,7 +67,7 @@ Meet Axel "Gramps" Jensen, a 75-year-old mountain hermit who’s got a lifetime 
         <img src="/assets/img/ID-Echo.png" alt="ID Adelaide" style="width: 100%; height: auto;">
     </div>
     <div style="flex: 1; margin-left: 10px;">
-        <img src="/assets/img/ID-Jensen.png" alt="ID Bert" style="width: 80%; height: auto;">
+        <img src="/assets/img/ID-Jensen.png" alt="ID Bert" style="width: 100%; height: auto;">
     </div>
 </div>
 
@@ -83,11 +83,17 @@ Meet Axel "Gramps" Jensen, a 75-year-old mountain hermit who’s got a lifetime 
         Step into the 1940s, where cinema reflected the triumphs and tragedies of a world at war. Hollywood rallied with stirring war dramas, noir thrillers, and uplifting musicals that kept spirits high. As soldiers fought on the frontlines, moviegoers found strength and solace in stories of courage and resilience. Let’s uncover how this decade shaped the heroes we cheer for today!
         </p>
         <p style="text-align: justify;">
-        The most common name we found in our data? John. This reflects the many everyday heroes and soldiers of the time—strong, resilient, and determined. The adjective that stood out most was young, symbolizing the fresh faces heading to war and the optimism of a new generation. And what were the themes shaping these characters? Hero, war, science, fashion, and film. These themes reflect the heart of the 1940s: bravery in the face of global conflict, the technological advances brought on by the war, the rise of new fashion trends, and the golden age of cinema that kept spirits high during dark time.
+        As the previous decade, detectives were still present in cinema, but have evolved a little bit. Let me introduce you Emilia "Mia" Grey, a 28-year-old private investigator with a sharp mind and an even sharper sense of mystery. Raised by detective parents who mysteriously vanished, Mia now specializes in missing persons and the strange, driven by a deep need for answers to her own haunting past. Independent, resourceful, and quick with a dry wit, Mia’s a master at solving cases using her intuition. She can come off as aloof, but underneath that tough exterior, she’s incredibly empathetic. By day, she’s investigating and piecing together puzzles; by night, she’s unwinding with mystery novels, yoga, and whiskey. Always with a notebook in hand, Mia’s constantly jotting down clues and ideas. She’s got a fascination with antique clockwork, and her search for truth isn’t just her job—it’s her way of finding some control in a world that often feels out of whack.
         </p>
-        <div style="text-align: center; margin: 20px 0;">
-            <img src="/assets/img/themes_40s.jpg" alt="Themes of the 40s" style="max-width: 100%; height: auto;">
-        </div>
+        <p style="text-align: justify;">
+        Another typical character was Meet Ethan Blackwood, a 28-year-old former Army medic turned private investigator. After six years in the British Army, he now runs his own agency, "Blackwood & Co.," solving high-stakes cases with his sharp mind and military skills. Ethan’s tough exterior hides a deep sense of justice and a dry sense of humor. He’s fiercely loyal, but keeps people at arm's length due to his past. When he’s not working, he enjoys hiking, playing guitar, and rescuing stray animals. Resourceful and mysterious, Ethan is a man of action—perfect for solving cases, but with a past that still haunts him.
+        </p>
+        <p style="text-align: justify;">
+        A complete change of register, meet now Auguste "Augie" LaFleur, a 32-year-old former jazz singer turned private investigator with a past as mysterious as his cases. Once the star of a popular New Orleans band, a ghostly train accident left him with a fractured reality, haunted by visions and delusions. Now in Los Angeles, Augie helps solve cases for Perry Mason while trying to piece together the puzzle of his own mind. With his melancholic charm, crumpled suits, and scuffed shoes, Augie’s got a magnetic yet tortured presence. He’s fiercely independent, using his musical background to read people and solve mysteries, but don’t let his mood swings fool you—he’s loyal to the core. When not chasing down criminals, he drowns his haunted thoughts in whiskey and jazz records, all while receiving strange messages from his past. Augie’s determined to protect others—even if it means confronting the ghosts that haunt him.
+        </p>
+        <p style="text-align: justify;">
+        Another total different character typical of this decade was Reginald "Reg" Pocket, a 35-year-old walking disaster and the kind of guy who turns every day into a comedy show. Raised in a family of entertainers, Reg can juggle gigs as a tour guide, fortune teller, or even a professional mourner (for weddings, of course). With his colorful suits, mustache, and a pocket watch chain that practically has a personality of its own, Reg is always ready for an adventure. Quick-witted and always the first to jump into the madness, Reg has a talent for getting himself into hilariously absurd situations. His sidekick (and possible love interest) Emily is usually there to keep him from totally wrecking things. Whether it’s navigating a spooky mansion or trying to outwit a ghost, Reg is your guy for mayhem and laughs!
+        </p>
     </div>
 </div>
 
