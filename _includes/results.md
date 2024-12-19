@@ -27,6 +27,15 @@ The second figure is Bert Fletcher. He is the lovable rogue with a knack for get
     </div>
 </div>
 
+<p style="text-align: justify;">
+How do these characters tie into the era’s historical themes? The heatmap shows how war, revolution, and class struggles shaped cinema. Addie reflects resilience against social barriers, echoing themes of class and revolution, while Bert’s resourcefulness mirrors a society adapting to upheaval, linked to themes like studio and war. Movies in the 1910s didn’t just entertain—they mirrored a world in flux. Addie and Bert symbolize this transformation, embodying the struggles and spirit of their time.
+</p>
+
+<div style="text-align: center;">
+    <img src="/assets/img/heatmap_1910.jpeg" alt="Heatmap">
+</div>
+
+
 <!--The 20s -->
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
