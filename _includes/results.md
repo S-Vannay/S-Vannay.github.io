@@ -7,15 +7,12 @@ Hold tight, because we’re about to embark on a journey through the decades! To
 <!--The 10s -->
 <h2 style="color: #960018;"><em>The 10s: The Birth of Cinema</em></h2>
 <p style="text-align: justify;">
-In the 1910s, cinema was still finding its feet, shaped by a world on the brink of dramatic change. Early films often revolved around clear-cut battles between good and evil, but this era also started to introduce more human and nuanced characters. Let’s meet two unforgettable figures who embody this pivotal time:
+In the 1910s, cinema was still finding its feet, shaped by a world on the brink of dramatic change. Early films often revolved around clear-cut battles between good and evil, but this era also started to introduce more human and nuanced characters. Let’s meet two unforgettable figures who embody this pivotal time.
 </p>
 
 <p style="text-align: justify;">
-Adelaide "Addie" LaRue is ahead of her time, a spirited young woman carving out a place for herself in a world that doesn’t expect much from her. With her sharp wit and unshakable resilience, she’s an early example of the "strong woman" archetype—though her strength is shown through cleverness and charm rather than sheer force.
-</p>
-
-<p style="text-align: justify;">
-The second figure is Bert Fletcher. He is the lovable rogue with a knack for getting into and out of trouble. Once a door-to-door salesman, Bert finds himself unexpectedly thrown into roles ranging from handyman to accidental hero. His adventurous spirit and quick thinking make him the perfect reflection of a rapidly changing society in the early 20th century.
+Fist, Adelaide "Addie" LaRue is ahead of her time, a spirited young woman carving out a place for herself in a world that doesn’t expect much from her. She’s an early example of the "strong woman" archetype—though her strength is shown through cleverness and charm rather than sheer force.
+The second figure is Bert Fletcher, a the lovable rogue with a knack for getting into and out of trouble. Once a door-to-door salesman, Bert finds himself unexpectedly thrown into roles ranging from handyman to accidental hero. His adventurous spirit and quick thinking make him the perfect reflection of a rapidly changing society in the early 20th century.
 </p>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
