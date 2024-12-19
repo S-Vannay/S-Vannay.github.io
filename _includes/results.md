@@ -4,7 +4,7 @@
 Hold tight, because we’re about to embark on a journey through the decades! Together, we’ll explore how movies captured the essence of each decade. Hold tight, because we’re about to embark on a journey through the decades! 
 </p>
 
-
+<!--The 10s -->
 <h2 style="color: #960018;"><em>The 10s: The Birth of Cinema</em></h2>
 <p style="text-align: justify;">
 Greetings, fellow time travelers! As we step into the 1910s, let me introduce you to two iconic figures who dominated this era of silent films. These characters reflect the stories audiences couldn’t get enough of, shaped by a world on the brink of transformation. Meet our two stars of the decade! 
@@ -27,6 +27,7 @@ Now, meet Bert Fletcher, a 35-year-old former salesman turned street-smart handy
     </div>
 </div>
 
+<!--The 20s -->
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <h2 style="color: #960018;"><em>The 20s: The Roaring Twenties</em></h2>
@@ -35,22 +36,43 @@ Now, meet Bert Fletcher, a 35-year-old former salesman turned street-smart handy
         </p>
     </div>
     <div style="flex: 0 0 auto; margin-left: 20px;">
-        <img src="/assets/img/Ada4.jpeg" alt="Ada in the 20s" style="max-width: 200px;">
+        <img src="/assets/img/Ada4.jpeg" alt="Ada in the 20s" style="max-width: 100px;">
     </div>
 </div>
 
 <p style="text-align: justify;">
 Meet Ren Dumont, a 28-year-old treasure hunter and sailor whose charm and quick wit are matched only by his ambition. With a natural ability to talk his way out of trouble, Ren navigates life with a resourcefulness that keeps him one step ahead of danger. Always in search of the next big opportunity, he’s driven by the thrill of discovery and the hope of uncovering his family's lost treasure. Ren’s not afraid to take risks, often diving into complex situations where politics and intrigue mix. Despite his roguish tendencies, he’s got a soft spot for the underdog and a deep sense of loyalty to those he cares about. When he's not chasing treasure or brokering deals, Ren spends his time collecting rare trinkets, particularly antique pocket watches, which he believes bring him good luck.
 </p>
+
 <p style="text-align: justify;">
 Actually, another Ren Dumont with the same was also very common in the 20s, but is a very different version of the previous Ren...He's a rising star in the world of engineering, whose ambition is as sharp as his mind. Born into a lower-middle-class family, Ren’s humble beginnings fueled his drive to escape the limitations of his past. Fiercely dedicated to his craft, he’s known for his innovative thinking and ability to tackle complex problems with ease, all while navigating the high-stakes world of prestigious projects and deadlines. This Ren is a man of contradictions: outwardly confident, but secretly haunted by insecurities rooted in his childhood. His intense ambition often leads him to sacrifice personal connections in pursuit of success, constantly seeking validation and recognition from his peers. When he’s not buried in work, Ren indulges in his love for collecting antique clocks, which symbolize his desire for precision and control. Despite his achievements, he struggles with forming meaningful relationships, afraid that vulnerability might threaten his hard-earned position in the elite circles he’s worked so hard to enter.
 </p>
 
+<!--The 30s -->
 <h2 style="color: #960018;"><em>The 30s: Golden Dreams and Great Escapes</em></h2>
 <p style="text-align: justify;">
-Welcome to the 1930s—a time when cinema became a beacon of hope during the Great Depression. From dazzling musicals to swashbuckling adventures, movies offered escapism and inspiration to millions. This decade gave us timeless classics like The Wizard of Oz and Gone with the Wind. Let’s journey back to an era when dreams were made in black and white (and sometimes Technicolor)!
+The 1930s was the golden age of Hollywood, where cinema became a world of glamour, adventure, and unforgettable personalities. With the rise of sound films, audiences were captivated by larger-than-life characters, from dashing heroes to tough-as-nails crooks and charming femmes fatales. It was a time of bold stories, iconic stars, and a blend of drama, comedy, and romance that defined the era. And now, let’s meet two characters who could easily fit right into this cinematic world…
 </p>
 
+<p style="text-align: justify;">
+Our first character typical of this decade is Echo, a 25-year-old detective with a razor-sharp mind and an even sharper tongue. Raised in a tough, abusive household, she learned early that if you want someting done right, you have to do it youself, because no one's coming to the rescue. Echo’s tough exterior hides a fiercely loyal heart, though, and she’ll do whatever it takes to bring justice to those who can’t fight for themselves. Echo’s a mix of contradictions: tough as nails with a quick wit and no-nonsense attitude, but beneath that exterior is a fiercely loyal and protective heart that only a few get to see. When she’s not solving crimes with the precision of a puzzle master, she’s collecting rare books on mythology and gnomes (yes, gnomes—don’t ask, it’s a thing). They give her some comfort in a world that doesn’t always make sense Driven by a thirst for justice and redemption, she’s determined to right the wrongs of the world. So, if you’re ever in her path, watch out—she’s one detective you don’t want to mess with.
+</p>
+
+<p style="text-align: justify;">
+Meet Axel "Gramps" Jensen, a 75-year-old mountain hermit who’s got a lifetime of stories, a heart full of wanderlust, and a beard that could probably tell its own tales. Though he insists he’s much younger, his rugged look and piercing blue eyes speak to a life well-lived—and well-worn. Once a globetrotting mechanic fixing everything from vintage cars to ancient machines, Axel now spends his days tinkering in his mountain cabin. He’s a man of few words, but when he does speak, expect gripping tales over a hot whiskey. Independent as they come, Axel’s got a soft spot for those in need...if they can earn his trust. He may live alone, but his days are filled with simple pleasures: tending his garden, fixing machines, and cooking up hearty stews. Grumpy? Maybe. Wise? Absolutely. Axel’s past may be full of wild adventures, but his heart’s still open to those worthy enough to share it.
+</p>
+
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+    <div style="flex: 1; margin-right: 10px;">
+        <img src="/assets/img/ID-Echo.png.png" alt="ID Adelaide" style="width: 100%; height: auto;">
+    </div>
+    <div style="flex: 1; margin-left: 10px;">
+        <img src="/assets/img/ID-Jensen.png.png" alt="ID Bert" style="width: 80%; height: auto;">
+    </div>
+</div>
+
+
+<!--The 40s -->
 <div style="display: flex; align-items: center;">
     <div style="flex: 0 0 auto; margin-right: 20px;">
         <img src="/assets/img/Ada3.jpeg" alt="Ada in the 40s" style="max-width: 200px;">
