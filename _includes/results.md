@@ -23,7 +23,7 @@ Now, meet Bert Fletcher, a 35-year-old former salesman turned street-smart handy
         <img src="/assets/img/ID_Adelaide.png" alt="ID Adelaide" style="width: 100%; height: auto;">
     </div>
     <div style="flex: 1; margin-left: 10px;">
-        <img src="/assets/img/ID_Bert.png" alt="ID Bert" style="width: 80%; height: auto;">
+        <img src="/assets/img/ID_Bert.png" alt="ID Bert" style="width: 100%; height: auto;">
     </div>
 </div>
 
@@ -36,7 +36,7 @@ Now, meet Bert Fletcher, a 35-year-old former salesman turned street-smart handy
         </p>
     </div>
     <div style="flex: 0 0 auto; margin-left: 20px;">
-        <img src="/assets/img/Ada4.jpeg" alt="Ada in the 20s" style="max-width: 100px;">
+        <img src="/assets/img/Ada4.jpeg" alt="Ada in the 20s" style="max-width: 150px;">
     </div>
 </div>
 
@@ -64,10 +64,10 @@ Meet Axel "Gramps" Jensen, a 75-year-old mountain hermit who’s got a lifetime 
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
     <div style="flex: 1; margin-right: 10px;">
-        <img src="/assets/img/ID-Echo.png.png" alt="ID Adelaide" style="width: 100%; height: auto;">
+        <img src="/assets/img/ID-Echo.png" alt="ID Adelaide" style="width: 100%; height: auto;">
     </div>
     <div style="flex: 1; margin-left: 10px;">
-        <img src="/assets/img/ID-Jensen.png.png" alt="ID Bert" style="width: 80%; height: auto;">
+        <img src="/assets/img/ID-Jensen.png" alt="ID Bert" style="width: 80%; height: auto;">
     </div>
 </div>
 
