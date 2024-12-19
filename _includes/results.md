@@ -7,12 +7,11 @@ Hold tight, because we’re about to embark on a journey through the decades! To
 <!--The 10s -->
 <h2 style="color: #960018;"><em>The 10s: The Birth of Cinema</em></h2>
 <p style="text-align: justify;">
-In the 1910s, cinema was still finding its feet, shaped by a world on the brink of dramatic change. Early films often revolved around clear-cut battles between good and evil, but this era also started to introduce more human and nuanced characters. Let’s meet two unforgettable figures who embody this pivotal time.
+In the 1910s, cinema was evolving alongside a rapidly changing world. Early films often focused on clear-cut tales of good versus evil, but this era also explored more complex, human characters. Two figures stand out as reflections of these shifting themes.
 </p>
 
 <p style="text-align: justify;">
-Fist, Adelaide "Addie" LaRue is ahead of her time, a spirited young woman carving out a place for herself in a world that doesn’t expect much from her. She’s an early example of the "strong woman" archetype—though her strength is shown through cleverness and charm rather than sheer force.
-The second figure is Bert Fletcher, a the lovable rogue with a knack for getting into and out of trouble. Once a door-to-door salesman, Bert finds himself unexpectedly thrown into roles ranging from handyman to accidental hero. His adventurous spirit and quick thinking make him the perfect reflection of a rapidly changing society in the early 20th century.
+Adelaide "Addie" LaRue is a clever, resilient young woman challenging societal expectations. She embodies an early version of the "strong woman" archetype, relying on wit and charm rather than brute strength. Bert Fletcher, a lovable rogue and former door-to-door salesman, becomes an accidental hero. His adventurous spirit and quick thinking reflect the adaptability required in a world in turmoil.
 </p>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
@@ -25,7 +24,7 @@ The second figure is Bert Fletcher, a the lovable rogue with a knack for getting
 </div>
 
 <p style="text-align: justify;">
-How do these characters tie into the era’s historical themes? The heatmap shows how war, revolution, and class struggles shaped cinema. Addie reflects resilience against social barriers, echoing themes of class and revolution, while Bert’s resourcefulness mirrors a society adapting to upheaval, linked to themes like studio and war. Movies in the 1910s didn’t just entertain—they mirrored a world in flux. Addie and Bert symbolize this transformation, embodying the struggles and spirit of their time.
+These characters tie into the historical themes of their era. The heatmap reveals that war, revolution, and class struggles were significant cinematic influences. Addie’s resilience speaks to the fight against social barriers, while Bert’s resourcefulness mirrors the need to adapt during upheaval. Movies of the 1910s weren’t just entertainment—they were a mirror of a world in flux, with Addie and Bert symbolizing the struggles and spirit of their time.
 </p>
 
 <div style="text-align: center;">
