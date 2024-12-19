@@ -23,7 +23,7 @@ Now, meet Bert Fletcher, a 35-year-old former salesman turned street-smart handy
         <img src="/assets/img/ID_Adelaide.png" alt="ID Adelaide" style="width: 100%; height: auto;">
     </div>
     <div style="flex: 1; margin-left: 10px;">
-        <img src="/assets/img/ID_Bert.png" alt="ID Bert" style="width: 100%; height: auto;">
+        <img src="/assets/img/ID_Bert.png" alt="ID Bert" style="width: 80%; height: auto;">
     </div>
 </div>
 
