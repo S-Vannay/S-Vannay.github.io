@@ -21,12 +21,17 @@ Now, meet Bert Fletcher, a 35-year-old former salesman turned street-smart handy
     <div style="flex: 1;">
         <h2 style="color: #960018;"><em>The 20s: The Roaring Twenties</em></h2>
         <p style="text-align: justify;">
-        It’s time to dance into the Jazz Age! The 1920s brought glamour, rebellion, and the birth of Hollywood’s Golden Age. Silent film stars became icons, and talkies began to revolutionize storytelling forever. Whether it’s flappers, gangsters, or the rise of epic dramas, this decade was all about breaking the rules and embracing the future. Let’s dive into this glittering era of cinema!
+        Ah, the 1920s—an era of jazz, gin, and flappers who threw convention to the wind. The world was changing, and the streets were buzzing with rebellion, glamour, and daring adventures. It was a time when everyone was either dancing the Charleston or plotting their next big score, and the people who ruled this new age of possibility were as vibrant as the neon lights of the city. But behind all the glitz and glamour, there were those who made their own rules and carved their own paths. Meet two such characters.
         </p>
     </div>
     <div style="flex: 0 0 auto; margin-left: 20px;">
         <img src="/assets/img/Ada4.jpeg" alt="Ada in the 20s" style="max-width: 200px;">
     </div>
+    <p style="text-align: justify;">
+    Meet Ren Dumont, a 28-year-old treasure hunter and sailor whose charm and quick wit are matched only by his ambition. With a natural ability to talk his way out of trouble, Ren navigates life with a resourcefulness that keeps him one step ahead of danger. Always in search of the next big opportunity, he’s driven by the thrill of discovery and the hope of uncovering his family's lost treasure. Ren’s not afraid to take risks, often diving into complex situations where politics and intrigue mix. Despite his roguish tendencies, he’s got a soft spot for the underdog and a deep sense of loyalty to those he cares about. When he's not chasing treasure or brokering deals, Ren spends his time collecting rare trinkets, particularly antique pocket watches, which he believes bring him good luck.
+    </p>
+    <p style="text-align: justify;">
+    Actually, another Ren Dumont with the same was also very common in the 20s, but is a very different version of the previous Ren...He's a  rising star in the world of engineering, whose ambition is as sharp as his mind. Born into a lower-middle-class family, Ren’s humble beginnings fueled his drive to escape the limitations of his past. Fiercely dedicated to his craft, he’s known for his innovative thinking and ability to tackle complex problems with ease, all while navigating the high-stakes world of prestigious projects and deadlines. This Ren is a man of contradictions: outwardly confident, but secretly haunted by insecurities rooted in his childhood. His intense ambition often leads him to sacrifice personal connections in pursuit of success, constantly seeking validation and recognition from his peers. When he’s not buried in work, Ren indulges in his love for collecting antique clocks, which symbolize his desire for precision and control. Despite his achievements, he struggles with forming meaningful relationships, afraid that vulnerability might threaten his hard-earned position in the elite circles he’s worked so hard to enter.
 </div>
 
 
