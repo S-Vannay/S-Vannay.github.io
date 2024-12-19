@@ -7,15 +7,15 @@ Hold tight, because we’re about to embark on a journey through the decades! To
 <!--The 10s -->
 <h2 style="color: #960018;"><em>The 10s: The Birth of Cinema</em></h2>
 <p style="text-align: justify;">
-Greetings, fellow time travelers! As we step into the 1910s, let me introduce you to two iconic figures who dominated this era of silent films. These characters reflect the stories audiences couldn’t get enough of, shaped by a world on the brink of transformation. Meet our two stars of the decade! 
+In the 1910s, cinema was still finding its feet, shaped by a world on the brink of dramatic change. Early films often revolved around clear-cut battles between good and evil, but this era also started to introduce more human and nuanced characters. Let’s meet two unforgettable figures who embody this pivotal time:
 </p>
 
 <p style="text-align: justify;">
-First, Meet Adelaide "Addie" LaRue, a 25-year-old French whirlwind who's basically a human embodiment of "I do what I want." Born into a poor family in the French countryside, she grew up determined to prove that no, society's limited opportunities for women wouldn't hold her back (take that, patriarchy!). If you have the opportunity to meet her, be careful, because Addi's personality is a delightful cocktail of contradictions. Cunning and manipulative? Oh yeah, she’ll charm her way to the top. Determined and resourceful? Absolutely. She's got a whole toolbox of "I’ll get what I want" strategies. Independent and strong-willed? You bet. She’ll never ask for permission, only forgiveness. Emotionally vulnerable? Of course. Under all that sass, she’s got a soft spot for the underdogs (and probably a few too many existential crises).
+Adelaide "Addie" LaRue is ahead of her time, a spirited young woman carving out a place for herself in a world that doesn’t expect much from her. With her sharp wit and unshakable resilience, she’s an early example of the "strong woman" archetype—though her strength is shown through cleverness and charm rather than sheer force.
 </p>
 
 <p style="text-align: justify;">
-Now, meet Bert Fletcher, a 35-year-old former salesman turned street-smart handyman. Once lost in his own career, Bert now spends his days fixing things (often things that weren’t broken) and picking pockets with his quick wit and charm. A lovable rogue with a heart of gold, he’s always ready for an adventure, especially if it involves pranks or a clever con. Whether he’s navigating chaos or talking his way out of sticky situations, Bert’s resourceful and quick on his feet. Though he’s a troublemaker by nature, he’s got a soft spot for the underdog and always tries to do the right thing, even if it means making more mess than he intended. When he’s not swindling people or fixing leaky faucets, Bert’s tinkering with his collection of old clockwork gadgets in his hidden workshop. A loner at heart, he’s always up for a wild ride, and no matter what, you can count on one thing: a good time... and probably an empty wallet.
+The second figure is Bert Fletcher. He is the lovable rogue with a knack for getting into and out of trouble. Once a door-to-door salesman, Bert finds himself unexpectedly thrown into roles ranging from handyman to accidental hero. His adventurous spirit and quick thinking make him the perfect reflection of a rapidly changing society in the early 20th century.
 </p>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
@@ -32,7 +32,7 @@ Now, meet Bert Fletcher, a 35-year-old former salesman turned street-smart handy
     <div style="flex: 1;">
         <h2 style="color: #960018;"><em>The 20s: The Roaring Twenties</em></h2>
         <p style="text-align: justify;">
-        Ah, the 1920s—an era of jazz, gin, and flappers who threw convention to the wind. The world was changing, and the streets were buzzing with rebellion, glamour, and daring adventures. It was a time when everyone was either dancing the Charleston or plotting their next big score, and the people who ruled this new age of possibility were as vibrant as the neon lights of the city. But behind all the glitz and glamour, there were those who made their own rules and carved their own paths. Meet two such characters.
+        Ah, the 1920s ! They were a time of lavish excess, rebellion, and social transformation. Jazz, flappers, and the glamorous art deco movement painted the backdrop, while cinema began to tackle bolder, more complex themes. Two characters, but with the same name, from this era capture the dizzying mix of ambition, risk, and allure.
         </p>
     </div>
     <div style="flex: 0 0 auto; margin-left: 20px;">
@@ -41,25 +41,25 @@ Now, meet Bert Fletcher, a 35-year-old former salesman turned street-smart handy
 </div>
 
 <p style="text-align: justify;">
-Meet Ren Dumont, a 28-year-old treasure hunter and sailor whose charm and quick wit are matched only by his ambition. With a natural ability to talk his way out of trouble, Ren navigates life with a resourcefulness that keeps him one step ahead of danger. Always in search of the next big opportunity, he’s driven by the thrill of discovery and the hope of uncovering his family's lost treasure. Ren’s not afraid to take risks, often diving into complex situations where politics and intrigue mix. Despite his roguish tendencies, he’s got a soft spot for the underdog and a deep sense of loyalty to those he cares about. When he's not chasing treasure or brokering deals, Ren spends his time collecting rare trinkets, particularly antique pocket watches, which he believes bring him good luck.
+Let me introduce you the first Ren Dumont, a treasure hunter. This Ren is the charismatic adventurer who thrives on both the physical and emotional thrill of his escapades. Driven by a fierce desire to uncover his family’s hidden past, he’s witty, daring, and always just one step ahead of danger. His globe-trotting treasure hunts mirror the expanding reach of cinema during this decade.
 </p>
 
 <p style="text-align: justify;">
-Actually, another Ren Dumont with the same was also very common in the 20s, but is a very different version of the previous Ren...He's a rising star in the world of engineering, whose ambition is as sharp as his mind. Born into a lower-middle-class family, Ren’s humble beginnings fueled his drive to escape the limitations of his past. Fiercely dedicated to his craft, he’s known for his innovative thinking and ability to tackle complex problems with ease, all while navigating the high-stakes world of prestigious projects and deadlines. This Ren is a man of contradictions: outwardly confident, but secretly haunted by insecurities rooted in his childhood. His intense ambition often leads him to sacrifice personal connections in pursuit of success, constantly seeking validation and recognition from his peers. When he’s not buried in work, Ren indulges in his love for collecting antique clocks, which symbolize his desire for precision and control. Despite his achievements, he struggles with forming meaningful relationships, afraid that vulnerability might threaten his hard-earned position in the elite circles he’s worked so hard to enter.
+The second Ren Dumont is actually a very different version of the previous one...A different side of Ren emerges as an engineer—practical, forward-thinking, and deeply committed to progress. In a world rapidly industrializing, Ren must confront both external challenges and his own inner doubts, representing the push toward a technological future in the midst of a changing world.
 </p>
 
 <!--The 30s -->
 <h2 style="color: #960018;"><em>The 30s: Golden Dreams and Great Escapes</em></h2>
 <p style="text-align: justify;">
-The 1930s was the golden age of Hollywood, where cinema became a world of glamour, adventure, and unforgettable personalities. With the rise of sound films, audiences were captivated by larger-than-life characters, from dashing heroes to tough-as-nails crooks and charming femmes fatales. It was a time of bold stories, iconic stars, and a blend of drama, comedy, and romance that defined the era. And now, let’s meet two characters who could easily fit right into this cinematic world…
+By the 1930s, Hollywood had cemented its position as the beating heart of cinema. Larger-than-life characters, escapism, and heartfelt romance reflected society's yearning for hope during the Great Depression. Here are two figures who encapsulate the era’s spirit.
 </p>
 
 <p style="text-align: justify;">
-Our first character typical of this decade is Echo, a 25-year-old detective with a razor-sharp mind and an even sharper tongue. Raised in a tough, abusive household, she learned early that if you want someting done right, you have to do it youself, because no one's coming to the rescue. Echo’s tough exterior hides a fiercely loyal heart, though, and she’ll do whatever it takes to bring justice to those who can’t fight for themselves. Echo’s a mix of contradictions: tough as nails with a quick wit and no-nonsense attitude, but beneath that exterior is a fiercely loyal and protective heart that only a few get to see. When she’s not solving crimes with the precision of a puzzle master, she’s collecting rare books on mythology and gnomes (yes, gnomes—don’t ask, it’s a thing). They give her some comfort in a world that doesn’t always make sense Driven by a thirst for justice and redemption, she’s determined to right the wrongs of the world. So, if you’re ever in her path, watch out—she’s one detective you don’t want to mess with.
+Tough as nails and sharp as a tack, Echo is a hardboiled detective with a razor-sharp mind and a drive for justice. Behind her tough exterior, she carries the weight of personal loss, adding complexity to her role as a seeker of truth. Echo embodies the era’s blend of strength and vulnerability, chasing down criminals while dealing with her own emotional battles.
 </p>
 
 <p style="text-align: justify;">
-Meet Axel "Gramps" Jensen, a 75-year-old mountain hermit who’s got a lifetime of stories, a heart full of wanderlust, and a beard that could probably tell its own tales. Though he insists he’s much younger, his rugged look and piercing blue eyes speak to a life well-lived—and well-worn. Once a globetrotting mechanic fixing everything from vintage cars to ancient machines, Axel now spends his days tinkering in his mountain cabin. He’s a man of few words, but when he does speak, expect gripping tales over a hot whiskey. Independent as they come, Axel’s got a soft spot for those in need...if they can earn his trust. He may live alone, but his days are filled with simple pleasures: tending his garden, fixing machines, and cooking up hearty stews. Grumpy? Maybe. Wise? Absolutely. Axel’s past may be full of wild adventures, but his heart’s still open to those worthy enough to share it.
+Now, meet a completely different character named Axel "Gramps" Jensen. Axel is the rugged, world-weary mountain man, offering wisdom and strength to a group of adventurers who cross his path. His love for nature and quiet independence make him a perfect symbol for an era that often explored man’s relationship with the wilderness. Despite his gruffness, Axel reveals a tenderness that highlights the complexity of his character.
 </p>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
@@ -77,27 +77,20 @@ Meet Axel "Gramps" Jensen, a 75-year-old mountain hermit who’s got a lifetime 
     <div style="flex: 1;">
         <h2 style="color: #960018;"><em>The 40s: Wartime and Resilience</em></h2>
         <p style="text-align: justify;">
-        Step into the 1940s, where cinema reflected the triumphs and tragedies of a world at war. Hollywood rallied with stirring war dramas, noir thrillers, and uplifting musicals that kept spirits high. As soldiers fought on the frontlines, moviegoers found strength and solace in stories of courage and resilience. Let’s uncover how this decade shaped the heroes we cheer for today!
+        The 1940s were shaped by the chaos and tragedy of the Second World War, which left an indelible mark on both the world and the movies. Cinema turned to stories of heroism, loss, and patriotism, reflecting the collective desire for hope amidst the global turmoil. Here are two characters who represent this time of resilience and uncertainty:
         </p>
     </div>
     <div style="flex: 0 0 auto; margin-left: 20px;">
-        <img src="/assets/img/Ada3.jpeg" alt="Ada in the 40s" style="max-width: 150px;">
+        <img src="/assets/img/Ada3.jpeg" alt="Ada in the 40s" style="max-width: 125px;">
     </div>
 </div>
 
 <p style="text-align: justify;">
-As the previous decade, detectives were still present in cinema, but have evolved a little bit. Let me introduce you Emilia "Mia" Grey, a 28-year-old private investigator with a sharp mind and an even sharper sense of mystery. Raised by detective parents who mysteriously vanished, Mia now specializes in missing persons and the strange, driven by a deep need for answers to her own haunting past. Independent, resourceful, and quick with a dry wit, Mia’s a master at solving cases using her intuition. She can come off as aloof, but underneath that tough exterior, she’s incredibly empathetic. By day, she’s investigating and piecing together puzzles; by night, she’s unwinding with mystery novels, yoga, and whiskey. Always with a notebook in hand, Mia’s constantly jotting down clues and ideas. She’s got a fascination with antique clockwork, and her search for truth isn’t just her job—it’s her way of finding some control in a world that often feels out of whack.
+As the previous decade, detectives were still present in cinema, but have evolved a little bit. Let me introduce you Ethan Blackwood, a former medic turned private investigator. Ethan carries the scars of war, both physical and psychological. His work is driven by a determination to solve complex cases, but his internal struggles reflect the broader experience of recovery and survival after WWII. Ethan embodies the resilience and healing of a generation.
 </p>
 
 <p style="text-align: justify;">
-Another typical character was Meet Ethan Blackwood, a 28-year-old former Army medic turned private investigator. After six years in the British Army, he now runs his own agency, "Blackwood & Co.," solving high-stakes cases with his sharp mind and military skills. Ethan’s tough exterior hides a deep sense of justice and a dry sense of humor. He’s fiercely loyal, but keeps people at arm's length due to his past. When he’s not working, he enjoys hiking, playing guitar, and rescuing stray animals. Resourceful and mysterious, Ethan is a man of action—perfect for solving cases, but with a past that still haunts him.
-</p>
-
-<p style="text-align: justify;">
-A complete change of register, meet now Auguste "Augie" LaFleur, a 32-year-old former jazz singer turned private investigator with a past as mysterious as his cases. Once the star of a popular New Orleans band, a ghostly train accident left him with a fractured reality, haunted by visions and delusions. Now in Los Angeles, Augie helps solve cases for Perry Mason while trying to piece together the puzzle of his own mind. With his melancholic charm, crumpled suits, and scuffed shoes, Augie’s got a magnetic yet tortured presence. He’s fiercely independent, using his musical background to read people and solve mysteries, but don’t let his mood swings fool you—he’s loyal to the core. When not chasing down criminals, he drowns his haunted thoughts in whiskey and jazz records, all while receiving strange messages from his past. Augie’s determined to protect others—even if it means confronting the ghosts that haunt him.
-</p>
-<p style="text-align: justify;">
-Another total different character typical of this decade was Reginald "Reg" Pocket, a 35-year-old walking disaster and the kind of guy who turns every day into a comedy show. Raised in a family of entertainers, Reg can juggle gigs as a tour guide, fortune teller, or even a professional mourner (for weddings, of course). With his colorful suits, mustache, and a pocket watch chain that practically has a personality of its own, Reg is always ready for an adventure. Quick-witted and always the first to jump into the madness, Reg has a talent for getting himself into hilariously absurd situations. His sidekick (and possible love interest) Emily is usually there to keep him from totally wrecking things. Whether it’s navigating a spooky mansion or trying to outwit a ghost, Reg is your guy for mayhem and laughs!
+A complete change of register, meet now Reginald "Reg" Pocket. Reg is the lovable, bumbling everyman who always seems to find himself in the wrong place at the wrong time. Yet, his ability to turn any disaster into a hilarious moment makes him a source of joy in an era that sometimes needed a bit of lightheartedness. Reg’s comedic charm mirrors the era’s shift toward films that balanced drama with humor and optimism.
 </p>
 
 
@@ -106,7 +99,7 @@ Another total different character typical of this decade was Reginald "Reg" Pock
 <p style="text-align: justify;">
 Welcome to the 1950s—a decade of optimism, rebellion, and innovation. As post-war prosperity soared, Hollywood turned to technicolor spectacle, suburban dreams, and rebellious icons like James Dean and Marilyn Monroe. Sci-fi took off with tales of alien invasions and atomic-age fears. Let’s explore a time when cinema reflected a society balancing tradition and change!
 </p>
-
+ -------------------------------------------
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <h2 style="color: #960018;"><em>The 60s: Revolution and Counterculture</em></h2>
