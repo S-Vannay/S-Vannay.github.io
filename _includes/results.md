@@ -74,29 +74,34 @@ Meet Axel "Gramps" Jensen, a 75-year-old mountain hermit who’s got a lifetime 
 
 <!--The 40s -->
 <div style="display: flex; align-items: center;">
-    <div style="flex: 0 0 auto; margin-right: 20px;">
-        <img src="/assets/img/Ada3.jpeg" alt="Ada in the 40s" style="max-width: 200px;">
-    </div>
     <div style="flex: 1;">
         <h2 style="color: #960018;"><em>The 40s: Wartime and Resilience</em></h2>
         <p style="text-align: justify;">
         Step into the 1940s, where cinema reflected the triumphs and tragedies of a world at war. Hollywood rallied with stirring war dramas, noir thrillers, and uplifting musicals that kept spirits high. As soldiers fought on the frontlines, moviegoers found strength and solace in stories of courage and resilience. Let’s uncover how this decade shaped the heroes we cheer for today!
         </p>
-        <p style="text-align: justify;">
-        As the previous decade, detectives were still present in cinema, but have evolved a little bit. Let me introduce you Emilia "Mia" Grey, a 28-year-old private investigator with a sharp mind and an even sharper sense of mystery. Raised by detective parents who mysteriously vanished, Mia now specializes in missing persons and the strange, driven by a deep need for answers to her own haunting past. Independent, resourceful, and quick with a dry wit, Mia’s a master at solving cases using her intuition. She can come off as aloof, but underneath that tough exterior, she’s incredibly empathetic. By day, she’s investigating and piecing together puzzles; by night, she’s unwinding with mystery novels, yoga, and whiskey. Always with a notebook in hand, Mia’s constantly jotting down clues and ideas. She’s got a fascination with antique clockwork, and her search for truth isn’t just her job—it’s her way of finding some control in a world that often feels out of whack.
-        </p>
-        <p style="text-align: justify;">
-        Another typical character was Meet Ethan Blackwood, a 28-year-old former Army medic turned private investigator. After six years in the British Army, he now runs his own agency, "Blackwood & Co.," solving high-stakes cases with his sharp mind and military skills. Ethan’s tough exterior hides a deep sense of justice and a dry sense of humor. He’s fiercely loyal, but keeps people at arm's length due to his past. When he’s not working, he enjoys hiking, playing guitar, and rescuing stray animals. Resourceful and mysterious, Ethan is a man of action—perfect for solving cases, but with a past that still haunts him.
-        </p>
-        <p style="text-align: justify;">
-        A complete change of register, meet now Auguste "Augie" LaFleur, a 32-year-old former jazz singer turned private investigator with a past as mysterious as his cases. Once the star of a popular New Orleans band, a ghostly train accident left him with a fractured reality, haunted by visions and delusions. Now in Los Angeles, Augie helps solve cases for Perry Mason while trying to piece together the puzzle of his own mind. With his melancholic charm, crumpled suits, and scuffed shoes, Augie’s got a magnetic yet tortured presence. He’s fiercely independent, using his musical background to read people and solve mysteries, but don’t let his mood swings fool you—he’s loyal to the core. When not chasing down criminals, he drowns his haunted thoughts in whiskey and jazz records, all while receiving strange messages from his past. Augie’s determined to protect others—even if it means confronting the ghosts that haunt him.
-        </p>
-        <p style="text-align: justify;">
-        Another total different character typical of this decade was Reginald "Reg" Pocket, a 35-year-old walking disaster and the kind of guy who turns every day into a comedy show. Raised in a family of entertainers, Reg can juggle gigs as a tour guide, fortune teller, or even a professional mourner (for weddings, of course). With his colorful suits, mustache, and a pocket watch chain that practically has a personality of its own, Reg is always ready for an adventure. Quick-witted and always the first to jump into the madness, Reg has a talent for getting himself into hilariously absurd situations. His sidekick (and possible love interest) Emily is usually there to keep him from totally wrecking things. Whether it’s navigating a spooky mansion or trying to outwit a ghost, Reg is your guy for mayhem and laughs!
-        </p>
+    </div>
+    <div style="flex: 0 0 auto; margin-left: 20px;">
+        <img src="/assets/img/Ada3.jpeg" alt="Ada in the 40s" style="max-width: 150px;">
     </div>
 </div>
 
+<p style="text-align: justify;">
+As the previous decade, detectives were still present in cinema, but have evolved a little bit. Let me introduce you Emilia "Mia" Grey, a 28-year-old private investigator with a sharp mind and an even sharper sense of mystery. Raised by detective parents who mysteriously vanished, Mia now specializes in missing persons and the strange, driven by a deep need for answers to her own haunting past. Independent, resourceful, and quick with a dry wit, Mia’s a master at solving cases using her intuition. She can come off as aloof, but underneath that tough exterior, she’s incredibly empathetic. By day, she’s investigating and piecing together puzzles; by night, she’s unwinding with mystery novels, yoga, and whiskey. Always with a notebook in hand, Mia’s constantly jotting down clues and ideas. She’s got a fascination with antique clockwork, and her search for truth isn’t just her job—it’s her way of finding some control in a world that often feels out of whack.
+</p>
+
+<p style="text-align: justify;">
+Another typical character was Meet Ethan Blackwood, a 28-year-old former Army medic turned private investigator. After six years in the British Army, he now runs his own agency, "Blackwood & Co.," solving high-stakes cases with his sharp mind and military skills. Ethan’s tough exterior hides a deep sense of justice and a dry sense of humor. He’s fiercely loyal, but keeps people at arm's length due to his past. When he’s not working, he enjoys hiking, playing guitar, and rescuing stray animals. Resourceful and mysterious, Ethan is a man of action—perfect for solving cases, but with a past that still haunts him.
+</p>
+
+<p style="text-align: justify;">
+A complete change of register, meet now Auguste "Augie" LaFleur, a 32-year-old former jazz singer turned private investigator with a past as mysterious as his cases. Once the star of a popular New Orleans band, a ghostly train accident left him with a fractured reality, haunted by visions and delusions. Now in Los Angeles, Augie helps solve cases for Perry Mason while trying to piece together the puzzle of his own mind. With his melancholic charm, crumpled suits, and scuffed shoes, Augie’s got a magnetic yet tortured presence. He’s fiercely independent, using his musical background to read people and solve mysteries, but don’t let his mood swings fool you—he’s loyal to the core. When not chasing down criminals, he drowns his haunted thoughts in whiskey and jazz records, all while receiving strange messages from his past. Augie’s determined to protect others—even if it means confronting the ghosts that haunt him.
+</p>
+<p style="text-align: justify;">
+Another total different character typical of this decade was Reginald "Reg" Pocket, a 35-year-old walking disaster and the kind of guy who turns every day into a comedy show. Raised in a family of entertainers, Reg can juggle gigs as a tour guide, fortune teller, or even a professional mourner (for weddings, of course). With his colorful suits, mustache, and a pocket watch chain that practically has a personality of its own, Reg is always ready for an adventure. Quick-witted and always the first to jump into the madness, Reg has a talent for getting himself into hilariously absurd situations. His sidekick (and possible love interest) Emily is usually there to keep him from totally wrecking things. Whether it’s navigating a spooky mansion or trying to outwit a ghost, Reg is your guy for mayhem and laughs!
+</p>
+
+
+<!--The 50s -->
 <h2 style="color: #960018;"><em>The 50s: Post-War Glamour</em></h2>
 <p style="text-align: justify;">
 Welcome to the 1950s—a decade of optimism, rebellion, and innovation. As post-war prosperity soared, Hollywood turned to technicolor spectacle, suburban dreams, and rebellious icons like James Dean and Marilyn Monroe. Sci-fi took off with tales of alien invasions and atomic-age fears. Let’s explore a time when cinema reflected a society balancing tradition and change!
